@@ -4,7 +4,7 @@ Test
 
 Shows a working setup for using Black Duck CoPilot to analyze the risk of project dependencies
 
-## Travis CI Setup
+## Travis CI Setup 
 
 The `.travis.yml` file has been modified to upload the generated data to Black Duck CoPilot:
 
